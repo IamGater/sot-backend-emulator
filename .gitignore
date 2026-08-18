@@ -1,0 +1,24 @@
+# Bytecode & Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Logs & session outputs
+*.log
+*.log.*
+
+# Certificates & keys - rootCA.key is a private key, never commit it.
+# Present on disk so the backend actually runs; regenerate with ca.py if
+# ever lost (then re-trust the new rootCA.cer per the README).
+certs/
+
+# Captured fixture data - present on disk so the backend actually works,
+# but not committed (tied to whatever real account captured it).
+emulator/fixtures/data/
+
+# Runtime-generated
+flows.jsonl

@@ -1,0 +1,209 @@
+{
+  "test": {
+    "url": "http://testurl/test"
+  },
+  "bridge": {
+    "url": "wss://stamp3-bridge-ares.prod.athena.msrareservices.com/ws"
+  },
+  "bridge2": {
+    "url": "wss://stamp3-bridge2-ares.prod.athena.msrareservices.com/ws"
+  },
+  "logon": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/login/"
+  },
+  "engagementMessage": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/content/api/content/engagement"
+  },
+  "catalog": {
+    "url": "https://stamp3.prod.athena.msrareservices.com/catalog/app/"
+  },
+  "configurationproxy": {
+    "url": "https://stamp3.prod.athena.msrareservices.com/configurationproxy/app/"
+  },
+  "pirate": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/pirate/"
+  },
+  "playerstats": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/playerstatsv2/"
+  },
+  "clidiag": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/clientdiagnostics/"
+  },
+  "preference": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/preferencev2/"
+  },
+  "company": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/company/"
+  },
+  "commerce": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/commercev2/"
+  },
+  "loadout": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/loadout/"
+  },
+  "emblem": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/emblemv3/"
+  },
+  "store": {
+    "url": "https://stamp3.prod.athena.msrareservices.com/redeem/app/"
+  },
+  "maelstrom1": {
+    "url": "https://athenaprod.maelstrom.gameservices.xboxlive.com/tenants/athenaprodga/routes/game/SOURCE_ID"
+  },
+  "maelstrom2": {
+    "url": "https://athenaprod.maelstrom.gameservices.xboxlive.com/tenants/athenaprodga/routes/server/SOURCE_ID"
+  },
+  "reward": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/reward/"
+  },
+  "localization": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/localization/"
+  },
+  "notification": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/notification/"
+  },
+  "contestmatchmaking": {
+    "url": "https://primary.prod.athena.msrareservices.com/contestmatchmaking/app/"
+  },
+  "whatsnew": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/content/api/content/nocontent"
+  },
+  "creatorcrew": {
+    "url": "https://stamp3.prod.athena.msrareservices.com/creatorcrew/app/"
+  },
+  "maelstrom2s": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/cyclone/api/ingestion/tenant/athenaprodga/route/server/"
+  },
+  "maelstrom1c": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/cyclone/api/ingestion/tenant/athenaprodga/route/game/"
+  },
+  "prompts": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/preferencev2/"
+  },
+  "leaderboard": {
+    "url": "https://stamp3.prod.athena.msrareservices.com/leaderboard/app/"
+  },
+  "notes": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/notes/"
+  },
+  "privateserver": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/customgame/"
+  },
+  "campaign": {
+    "url": "https://stamp3.prod.athena.msrareservices.com/campaign/app/"
+  },
+  "compassevents": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/content/api/content/nocontent"
+  },
+  "seasons": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/season/"
+  },
+  "goals": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/goal/"
+  },
+  "campaignv2": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/campaignv2/"
+  },
+  "oracle": {
+    "url": "https://stamp3.prod.athena.msrareservices.com/oracle/app/"
+  },
+  "tradeRoute": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/content/api/content/traderoutes"
+  },
+  "whatsnewv2": {
+    "url": "https://rarecmsmyzfun.azureedge.net/public-athena-xlive/whatsnew/"
+  },
+  "playermoderation": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/playermoderation/"
+  },
+  "achievement": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/achievement/"
+  },
+  "content": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/content/api/content/"
+  },
+  "scheduler": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/scheduler/"
+  },
+  "playereventstream": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/playereventstream/"
+  },
+  "ship": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/ship/"
+  },
+  "shiploadout": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/shiploadout/"
+  },
+  "accolade": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/accolade/"
+  },
+  "preferencev2": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/preferencev2/"
+  },
+  "presence": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/presence/"
+  },
+  "skill": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/skill/"
+  },
+  "externalrewards": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/externalrewards/"
+  },
+  "gameserverqos": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/gameserverqos/"
+  },
+  "playernameresolver": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/playernameresolver/"
+  },
+  "activityfeed": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/activityfeed/"
+  },
+  "guild": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/guild/"
+  },
+  "experience": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/experience/"
+  },
+  "lighthouse": {
+    "url": "https://sf-fd.prod.athena.msrareservices.com/ares/lighthouse/"
+  },
+  "pioneers": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/pioneers/"
+  },
+  "communitymonitor": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/communitymonitor/"
+  },
+  "login": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/login/api/token/client"
+  },
+  "login2": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/login/api/token/server"
+  },
+  "login3": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/login"
+  },
+  "enforcement": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/eviction/"
+  },
+  "skadilogin": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/login/api/token/client"
+  },
+  "discovery": {
+    "url": "https://stamp3.prod.athena.msrareservices.com/discovery/app/"
+  },
+  "compensation": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/compensation/"
+  },
+  "groupgoal": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/groupgoal/"
+  },
+  "contentdsr": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/content/"
+  },
+  "lighthousestamped": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/lighthouse/"
+  },
+  "customgame": {
+    "url": "https://stamp3-fd.prod.athena.msrareservices.com/ares/customgame/"
+  }
+}
